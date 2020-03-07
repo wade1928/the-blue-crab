@@ -194,7 +194,7 @@ a:active {
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.712), rgba(0, 0, 0, 0.712)),
-    url('resources/css/food.jpg');
+    url('food.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -574,7 +574,7 @@ footer p {
 .bar {
 
     background-image: linear-gradient(rgba(0, 0, 0, 0.712), rgba(0, 0, 0, 0.712)),
-      url('/resources/css/bar.jpg');
+      url('bar.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
