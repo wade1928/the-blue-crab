@@ -194,7 +194,7 @@ a:active {
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.712), rgba(0, 0, 0, 0.712)),
-    url('/resources/css/food.jpg');
+    url('resources/css/food.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -365,11 +365,11 @@ header {
 /* --------------------------------- */
 
 .section-testimonials {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('img/back-customers.jpg');
   background-size: cover;
   color: #fff;
   background-attachment: fixed;
-  
+
 }
 
 blockquote {
@@ -572,7 +572,7 @@ footer p {
 }
 
 .bar {
- 
+
     background-image: linear-gradient(rgba(0, 0, 0, 0.712), rgba(0, 0, 0, 0.712)),
       url('/resources/css/bar.jpg');
     background-size: cover;
